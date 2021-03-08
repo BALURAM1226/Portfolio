@@ -1,0 +1,38 @@
+iframe{
+  border:2px solid black;
+  border-radius:10px;
+  margin-top:14px;
+  flex:1;
+  
+  height:90%;
+}
+.container{
+  overflow: hidden;
+  display: flex;
+ 
+}
+div{
+  padding:10px;
+  border-radius:12px;
+  margin-left:6px;
+ flex:2;
+  height:500px;
+}
+a{
+  color: red;
+  font-weight:bold;
+  font-size:20px;
+  text-decoration: none;
+  text-align: center;
+  display:block;
+}
+h1{
+  color: white;
+  background:black;
+  border-radius:20px;
+  text-align: center;
+  justify-content: center;
+}
+#pdf{
+  margin-right:10px;
+}
